@@ -1,0 +1,50 @@
+{
+    "T CA 2345": {
+        "brand": "YAMAHA", 
+        "wheel": 2, 
+        "vehicle_type": "two wheeler", 
+        "reg_no": "T CA 2345", 
+        "check_in": "2024-05-30 06:14:53.042321", 
+        "check_out": "2024-05-30 08:15:48.650194"
+    }, 
+    "C TP 4532": {
+        "brand": "BAJAJ", 
+        "wheel": 2, 
+        "vehicle_type": "two wheeler", 
+        "reg_no": "C TP 4532", 
+        "check_in": "2024-05-30 09:15:55.938847", 
+        "check_out": "2024-05-30 13:50:51.807354"
+    }, 
+    "J TP 3456": {
+        "brand": "HYUNDAI", 
+        "wheel": 4, 
+        "vehicle_type": "four wheeler", 
+        "reg_no": "J TP 3456", 
+        "check_in": "2024-05-30 13:23:06.127422", 
+        "check_out": "2024-05-30 16:12:40.684171"
+    }, 
+    "C GG 3455": {
+        "brand": "DUKE", 
+        "wheel": 2, 
+        "vehicle_type": "two wheeler", 
+        "reg_no": "C GG 3455", 
+        "check_in": "2024-05-30 16:08:40.589773", 
+        "check_out": "2024-06-06 10:21:20.042087"
+    }, 
+    "C GG 1234": {
+        "brand": "YAMAHA", 
+        "wheel": 2, 
+        "vehicle_type": "two wheeler", 
+        "reg_no": "C GG 1234", 
+        "check_in": "2024-06-05 17:03:33.581225", 
+        "check_out": ""
+    }, 
+    "B CT 2345": {
+        "brand": "MERCEDES", 
+        "wheel": 2, 
+        "vehicle_type": "two wheeler", 
+        "reg_no": "B CT 2345", 
+        "check_in": "2024-06-05 15:47:56.699468", 
+        "check_out": ""
+    }
+}
